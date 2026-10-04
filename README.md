@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Miguel Yuji
@@ -19,13 +18,17 @@ I'm a **1st-year Technical IT student at Instituto J&F**, exploring backend deve
 
 I'm currently focused on building a strong foundation through projects, practice and continuous learning.
 
-```text
-Name       : Miguel Yuji
-Education  : Technical IT — Instituto J&F
-Year       : 1st year
-Focus      : Backend • Databases • Programming
-Goal       : Learn → Build → Improve
-````
+<div align="center">
+
+|               |                                   |
+| ------------- | --------------------------------- |
+| **Name**      | Miguel Yuji                       |
+| **Education** | Technical IT — Instituto J&F      |
+| **Year**      | 1st year                          |
+| **Focus**     | Backend • Databases • Programming |
+| **Goal**      | Learn → Build → Improve           |
+
+</div>
 
 ---
 
@@ -33,12 +36,12 @@ Goal       : Learn → Build → Improve
 
 I'm currently learning and developing my skills in:
 
-| Technology          | Focus                                                                  |
-| ------------------- | ---------------------------------------------------------------------- |
-| ☕ **Java**          | Object-oriented programming, application logic and backend foundations |
-| 🐘 **PostgreSQL**   | SQL, relational databases, modeling and data persistence               |
-| 🐍 **Python**       | Programming fundamentals and language exploration                      |
-| 🔧 **Git & GitHub** | Version control, branches, commits and collaboration                   |
+| Technology          | What I'm learning                                                      | Status     |
+| ------------------- | ---------------------------------------------------------------------- | ---------- |
+| ☕ **Java**          | Object-oriented programming, application logic and backend foundations | `LEARNING` |
+| 🐘 **PostgreSQL**   | SQL, relational databases, modeling and data persistence               | `LEARNING` |
+| 🐍 **Python**       | Programming fundamentals and language exploration                      | `LEARNING` |
+| 🔧 **Git & GitHub** | Version control, branches, commits and collaboration                   | `LEARNING` |
 
 > Everything is a work in progress. I'm learning by building.
 
@@ -68,7 +71,7 @@ More projects will appear here as I continue developing my skills.
 
 ## `> developer_mindset`
 
-```java
+```text
 learn();
 build();
 makeMistakes();
@@ -98,15 +101,15 @@ I'm still at the beginning of my journey, but every project is another step towa
 <div align="center">
 
 <a href="https://github.com/yujiBrito">
-  <img src="https://img.shields.io/badge/GitHub-yujiBrito-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-yujiBrito-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/yuji_brito">
-  <img src="https://img.shields.io/badge/Instagram-yuji__brito-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-yuji__brito-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="mailto:miguel.yuji2011@gmail.com">
-  <img src="https://img.shields.io/badge/Email-miguel.yuji2011%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-miguel.yuji2011%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -115,15 +118,8 @@ I'm still at the beginning of my journey, but every project is another step towa
 
 <div align="center">
 
-```text
-Still learning.
-Still building.
-Still becoming a better developer.
-```
+**Still learning. Still building. Still becoming a better developer.**
 
-### `> exit`
+`> exit`
 
 </div>
-```
-
-Agora é **um único bloco**: é só clicar em **Copiar** no canto superior direito e colar diretamente no `README.md`.
