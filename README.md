@@ -15,7 +15,6 @@ I enjoy building applications, working with databases, solving problems through 
 * ☕ Currently working mainly with **Java**
 * 🐍 Learning and developing with **Python**
 * 🗄️ Working with **PostgreSQL**
-* 🔧 Interested in software architecture, databases, APIs and backend systems
 * 📚 Always looking to learn and improve my development skills
 
 ---
@@ -48,12 +47,9 @@ I enjoy building applications, working with databases, solving problems through 
 
 I'm currently developing projects focused on **backend systems and databases**, putting into practice concepts such as:
 
-* REST APIs
 * CRUD operations
 * Database modeling
 * SQL
-* Data persistence
-* Software architecture
 * Git and version control
 
 I'm especially interested in understanding not only **how to make something work**, but also **why it works and how it can be improved**.
