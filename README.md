@@ -1,103 +1,129 @@
-# 👋 Hi, I'm Miguel Yuji
+````md
+<div align="center">
 
-### Backend & Data Developer
+# Miguel Yuji
 
-I'm a **Backend and Data Developer** currently studying **Technical IT at Instituto J&F**.
+### Backend & Data Developer · IT Student
 
-I enjoy building applications, working with databases, solving problems through code, and understanding how systems work behind the scenes.
+> Building systems. Working with data. Learning how things work under the hood.
 
----
+<img src="https://skillicons.dev/icons?i=java,postgresql,python,git,github" />
 
-## 🚀 About Me
-
-* 🎓 1st-year Technical IT student at **Instituto J&F**
-* 💻 Focused on **Backend Development and Data**
-* ☕ Currently working mainly with **Java**
-* 🐍 Learning and developing with **Python**
-* 🗄️ Working with **PostgreSQL**
-* 📚 Always looking to learn and improve my development skills
+</div>
 
 ---
 
-## 💻 Technologies
+## `> whoami`
 
-### Languages
+I'm a **1st-year Technical IT student at Instituto J&F**, exploring backend development, databases and programming.
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### Database
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📌 What I'm Working On
-
-I'm currently developing projects focused on **backend systems and databases**, putting into practice concepts such as:
-
-* CRUD operations
-* Database modeling
-* SQL
-* Git and version control
-
-I'm especially interested in understanding not only **how to make something work**, but also **why it works and how it can be improved**.
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yujiBrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujiBrito&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
-## 🌱 Currently Learning
+I'm currently focused on building a strong foundation through projects, practice and continuous learning.
 
 ```text
-Backend Development
-████████████████░░░░ 80%
+Name       : Miguel Yuji
+Education  : Technical IT — Instituto J&F
+Year       : 1st year
+Focus      : Backend • Databases • Programming
+Goal       : Learn → Build → Improve
+````
 
-Java
-███████████████░░░░░ 75%
+---
 
-PostgreSQL & SQL
-██████████████░░░░░░ 70%
+## `> learning`
 
-Python
-███████████░░░░░░░░░ 55%
+I'm currently learning and developing my skills in:
+
+| Technology          | Focus                                                                  |
+| ------------------- | ---------------------------------------------------------------------- |
+| ☕ **Java**          | Object-oriented programming, application logic and backend foundations |
+| 🐘 **PostgreSQL**   | SQL, relational databases, modeling and data persistence               |
+| 🐍 **Python**       | Programming fundamentals and language exploration                      |
+| 🔧 **Git & GitHub** | Version control, branches, commits and collaboration                   |
+
+> Everything is a work in progress. I'm learning by building.
+
+---
+
+## `> what_i'm_building`
+
+### 🗄️ Backend & Database Projects
+
+Practicing backend development and database concepts through projects involving:
+
+* Java
+* PostgreSQL
+* SQL
+* CRUD operations
+* Object-oriented programming
+* Database modeling
+* Application structure
+
+### 🧪 Learning Through Projects
+
+I believe the best way to learn programming is to **build, make mistakes, understand why they happened, and improve**.
+
+More projects will appear here as I continue developing my skills.
+
+---
+
+## `> developer_mindset`
+
+```java
+learn();
+build();
+makeMistakes();
+understand();
+improve();
+repeat();
 ```
 
-> These percentages represent my current focus and learning journey, not formal skill levels.
+I'm still at the beginning of my journey, but every project is another step toward becoming a better developer.
 
 ---
 
-## 📫 Connect With Me
+## `> currently_focusing_on`
 
-<p>
-  <a href="https://instagram.com/yuji_brito">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:miguel.yuji2011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```text
+[████████████████░░░░] Backend fundamentals
+[███████████████░░░░░] Database & SQL
+[██████████████░░░░░░] Java
+[████████████░░░░░░░░] Python
+[██████████████░░░░░░] Git & GitHub
+```
 
 ---
 
-<p align="center">
-  <i>"Building, learning, and improving one project at a time."</i>
-</p>
+## `> connect`
+
+<div align="center">
+
+<a href="https://github.com/yujiBrito">
+  <img src="https://img.shields.io/badge/GitHub-yujiBrito-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/yuji_brito">
+  <img src="https://img.shields.io/badge/Instagram-yuji__brito-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:miguel.yuji2011@gmail.com">
+  <img src="https://img.shields.io/badge/Email-miguel.yuji2011%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+Still learning.
+Still building.
+Still becoming a better developer.
+```
+
+### `> exit`
+
+</div>
+```
+
+Agora é **um único bloco**: é só clicar em **Copiar** no canto superior direito e colar diretamente no `README.md`.
